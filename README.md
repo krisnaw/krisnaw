@@ -32,6 +32,7 @@
 
 
 ## Side Projects 📚
+- [Workout API built in Go](https://github.com/krisnaw/go-workout)
 - [BookBaliTransport](https://www.bookbalitransport.com)
 
 ## Online courses I’ve taken to improve my skills.
