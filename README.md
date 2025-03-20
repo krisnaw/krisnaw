@@ -36,3 +36,10 @@ krisnaw/README.md
 ## Side Projects 📚
 - [BookBaliTransport](https://www.bookbalitransport.com)
 
+## Online courses I’ve taken to improve my skills.
+### React.js
+ - [The Joy of React by Josh W Comeau ](https://www.joyofreact.com)
+
+### Next.js  
+ - [Next.js Fundamentals, v4 by Scott Moss](https://frontendmasters.com/workshops/nextjs-fundamentals/)
+
