@@ -29,6 +29,8 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/https%3A%2F%2Fleetcode.com%2Fu%2Fkrisnaw2010?theme=light&font=Noto%20Sans%20Thai%20Looped)
+
 
 
 ## Side Projects 📚
