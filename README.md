@@ -25,11 +25,13 @@
 ## My Stats
 
 <!--START_SECTION:CodingStats-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/krisna_wijaya?theme=nord&font=Noto%20Sans%20Yi&ext=contest)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/https%3A%2F%2Fleetcode.com%2Fu%2Fkrisnaw2010?theme=light&font=Noto%20Sans%20Wancho&site=cn)
+
 
 
 
