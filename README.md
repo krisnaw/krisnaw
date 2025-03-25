@@ -32,9 +32,6 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 
-
-
-
 ## Side Projects 📚
 - [krisna-dev | Personal website built in NextJS](https://github.com/krisnaw/krisna-blog)
 - [Workout API built in Go](https://github.com/krisnaw/go-workout)
