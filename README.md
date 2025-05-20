@@ -22,20 +22,14 @@
 [<img height="32" width="32" src="https://cdn.simpleicons.org/express" />](https://expressjs.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/php" />](https://www.php.net/)
 
-## My Stats
-
-<!--START_SECTION:CodingStats-->
-![LeetCode Stats](https://leetcard.jacoblin.cool/krisna_wijaya?theme=nord&font=Noto%20Sans%20Yi&ext=contest)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 
 ## Side Projects 📚
 - [krisna-dev | Personal website built in NextJS](https://github.com/krisnaw/krisna-blog)
 - [Workout API built in Go](https://github.com/krisnaw/go-workout)
 - [BookBaliTransport](https://www.bookbalitransport.com)
+
+## Contribution
+- [Zod v4 - Indonesia translation](https://github.com/colinhacks/zod/pull/4195)
 
 ## Online courses I’ve taken to improve my skills.
 ### React.js
