@@ -28,8 +28,9 @@
 - [Workout API built in Go](https://github.com/krisnaw/go-workout)
 - [BookBaliTransport](https://www.bookbalitransport.com)
 
-## Contribution
+## Recent Contribution
 - [Zod v4 - Indonesia translation](https://github.com/colinhacks/zod/pull/4195)
+- [Gumboard (Antiwork) - Fixed DB query ](https://github.com/antiwork/gumboard/pull/421)
 
 ## Online courses I’ve taken to improve my skills.
 ### React.js
