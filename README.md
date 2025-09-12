@@ -24,9 +24,8 @@
 
 
 ## Side Projects 📚
-- [krisna-dev | Personal website built in NextJS](https://github.com/krisnaw/krisna-blog)
+- [krisnawijaya.com | Personal website built in NextJS](https://www.krisnawijaya.com/)
 - [Workout API built in Go](https://github.com/krisnaw/go-workout)
-- [BookBaliTransport](https://www.bookbalitransport.com)
 
 ## Recent Contribution
 - [Zod v4 - Indonesia translation](https://github.com/colinhacks/zod/pull/4195)
